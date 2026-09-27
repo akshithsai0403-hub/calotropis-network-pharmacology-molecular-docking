@@ -272,21 +272,3 @@ The repository will contain:
 Detailed results and interpretations will be added as the project progresses.
 
 ---
-
-# Project Status
-
-**Status: Completed / Ongoing**
-
-The network pharmacology analysis and molecular docking workflow has been performed. Final organization of datasets, figures, docking results, and interpretation is in progress.
-
----
-
-# Reproducibility
-
-This repository is intended to document the computational workflow used in the study.
-
-Data files, analysis outputs, methodology, and relevant computational parameters will be organized within the repository to facilitate reproducibility and future reference.
-
----
-
-This computational study is intended to provide hypotheses regarding potential compound-target interactions and molecular mechanisms. Network pharmacology and molecular docking results require appropriate experimental validation before conclusions regarding therapeutic efficacy can be established.
